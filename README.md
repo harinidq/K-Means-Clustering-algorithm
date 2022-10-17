@@ -22,6 +22,8 @@ Find the centroid using KMeans
 Run the program and predict the output
 
 ## Program:
+Devloped by:harini.m.d
+register no.:22001980
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
